@@ -1,0 +1,23 @@
+body
+{
+Background-color:black;
+}
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color:#f8fcf7 ;
+  margin-bottom: 20px;
+}
+h2
+{
+color:#f8fcf7 ;
+}
+p{
+ text-align: center;
+font-family: Verdana
+  font-size: 18px;
+  color:#f8fcf7;
+  margin-bottom: 20px;
+padding:25px 300px 30px 300px;
+
+}
